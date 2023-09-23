@@ -1,2 +1,2 @@
 # llm-prompt-architecture-evaluation
-This is an evaluation pipeline using existing Large Language Models (LLMs) except Chat-GPT or GPT modells without any fine tuning model
+This is an evaluation pipeline using existing Large Language Models (LLMs) except Chat-GPT or GPT models without any fine tuning model
